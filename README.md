@@ -24,7 +24,7 @@ Please download the LIMUC dataset from here
 ```
 https://zenodo.org/records/5827695#.Yi8GJ3pByUk
 ```
-# Download dataset
+# Make dataset
 You can create datasets by running the following code. 
 ```
 python ./make_bag/make_bags_LIMUC.py
