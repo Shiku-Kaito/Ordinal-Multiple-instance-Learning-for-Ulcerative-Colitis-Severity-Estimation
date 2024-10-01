@@ -81,6 +81,7 @@ python ./script/main.py --dataset "LIMUC" --data_type "5-fold_in_test_balanced_t
 python ./script/main.py --dataset "LIMUC" --data_type "5-fold_in_test_balanced_time_order" --module "transfomer_cpl" --constraint 'H-S' --metric_method 'C' --tau 0.13 --is_evaluation 1 --device 'cuda:0' 
 python ./script/main.py --dataset "LIMUC" --data_type "5-fold_in_test_balanced_time_order" --module "transfomer_cpl" --constraint 'S-P' --metric_method 'C' --tau 0.11 --is_evaluation 1 --device 'cuda:0' 
 python ./script/main.py --dataset "LIMUC" --data_type "5-fold_in_test_balanced_time_order" --module "transfomer_krank" --batch_size 32 --transfomer_layer_num 1 --clstoken_mask 1  --is_evaluation 1 --device 'cuda:0' 
+```
 
 # Citation
 If you find this repository helpful, please consider citing:
