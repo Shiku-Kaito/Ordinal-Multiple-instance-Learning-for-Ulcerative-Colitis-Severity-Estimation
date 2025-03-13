@@ -86,6 +86,14 @@ python ./script/main.py --dataset "LIMUC" --data_type "5-fold_in_test_balanced_t
 # Citation
 If you find this repository helpful, please consider citing:
 ```
+@InProceedings{Shiku_2025_WACV,
+    author    = {Shiku, Kaito and Nishimura, Kazuya and Suehiro, Daiki and Tanaka, Kiyohito and Bise, Ryoma},
+    title     = {Ordinal Multiple-Instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {4290-4299}
+}
 ```
 
 # Author
