@@ -1,4 +1,4 @@
-
+#!/bin/bash
 python ./script/main.py --dataset "LIMUC" --data_type "5-fold_in_test_balanced_time_order" --module "output_mean" --is_evaluation 1 --device 'cuda:0'
 python ./script/main.py --dataset "LIMUC" --data_type "5-fold_in_test_balanced_time_order" --module "output_max"  --is_evaluation 1 --device 'cuda:0'
 python ./script/main.py --dataset "LIMUC" --data_type "5-fold_in_test_balanced_time_order" --module "Feat_agg" --feat_agg_method "mean" --is_evaluation 1 --device 'cuda:0'  
