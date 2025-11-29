@@ -1,5 +1,5 @@
 # Ordinal-Multiple-instance-Learning-for-Ulcerative-Colitis-Severity-Estimation
-Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer, in WACV2025🎉🎉!
+Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer, in **WACV2025** 🎉🎉!
 
 Shikui Kaito, Kaszuya nishimura, Daiki Suehiro, Kiyohito Tanaka, Ryoma Bise
 
